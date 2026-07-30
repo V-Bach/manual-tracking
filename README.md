@@ -6,7 +6,7 @@ Real-time dual-hand tracking application built with OpenCV and MediaPipe Tasks V
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dual-Hand Tracking**: Real-time 3D tracking of 21 keypoints per hand.
 - **Selective Touch-and-Pull Gating**: Connects only finger pairs that touch ($<55\text{px}$) and pull apart ($>85\text{px}$).
@@ -16,7 +16,7 @@ Real-time dual-hand tracking application built with OpenCV and MediaPipe Tasks V
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 1. **Install dependencies**:
    ```bash
@@ -30,7 +30,7 @@ Real-time dual-hand tracking application built with OpenCV and MediaPipe Tasks V
 
 ---
 
-## 🎮 Keyboard Controls
+## Keyboard Controls
 
 | Key | Action |
 | :--- | :--- |
