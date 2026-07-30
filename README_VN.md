@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Tính năng chính
+## Tính năng chính
 
 - **Theo dõi 2 bàn tay thời gian thực**: Nhận diện 21 mốc tọa độ 3D mỗi bàn tay.
 - **Kích hoạt ngón chụm-kéo riêng biệt**: Chỉ nối những cặp ngón chụm chạm nhau ($<55\text{px}$) và kéo ra ($>85\text{px}$).
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ Hướng dẫn cài đặt & Chạy
+## Hướng dẫn cài đặt & Chạy
 
 1. **Cài đặt thư viện**:
    ```bash
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎮 Phím tắt điều khiển
+## Phím tắt điều khiển
 
 | Phím | Chức năng |
 | :--- | :--- |
